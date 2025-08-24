@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan Bhardwaj</h1>
-<h3 align="center">Proactive Cybersecurity Analyst | Strong IT Foundation | Continuous Growth in VAPT, SIEM, and Security Operations</h3>
+<h3 align="center">Proactive Cybersecurity Analyst || Strong IT Foundations || VAPT || SIEM || Security Operations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhardwajniranjan&label=Profile%20views&color=0e75b6&style=flat" alt="bhardwajniranjan" /> </p>
 
@@ -19,15 +19,34 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="kali" width="40" height="40"/> </a> 
-<a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+<h3 align="left">Skills and Tools:</h3>
+<h3 align="center">Docker || Kali/Linux || Wireshark || Nessus || OpenVAS || BurpSuite || Hydra || Firewalls || IPS/IDS || Endpoint-Security || AlienVault || Wazuh || Multi-OS || Log-Analysis || Patch-Management || Metasploit || Nikto </h3>
+
+---
+
+<h3 align="left">Scripts & Language:</h3>
+<h3 align="center"> Bash || Batch </h3>
+
+---
+
+<h3 align="left">Certifications:</h3>
+<h3 align="center"> EC-Council Certified CEHv13 || Cisco CCNA || Cisco Network-Fundamental </h3>
+
+---
+
+<h3 align="left">🚀 Projects</h3>
+
+- 🔹 [Quick Heal Seqrite EPS/EDR Deployment (Local Corporate Network)](https://github.com/bhardwajniranjan/seqrite-project)  
+  *Enterprise-wide deployment of endpoint detection & response with AD integration, SMTP alerts, and policy enforcement.*  
+
+- 🔹 [SIEM Lab Setup – AlienVault OSSIM + Wazuh](https://github.com/bhardwajniranjan/siem-lab)  
+  *Deployed SIEM in lab, integrated endpoints, created correlation rules, and designed dashboards for incident detection.*  
+
+- 🔹 [Vulnerability Assessment Reports – Nessus & OpenVAS](https://github.com/bhardwajniranjan/vapt-reports)  
+  *Performed monthly vulnerability scans, documented findings, and mapped remediation steps.*  
+
+- 🔹 [Web Application Security Testing with Burp Suite](https://github.com/bhardwajniranjan/webapp-vapt)  
+  *Tested for XSS, SQLi, and file upload flaws on DVWA and real-world lab setups.*
 
 ---
 
